@@ -1,4 +1,4 @@
-# Hirst Dot Painting 🎨
+# Logikatalk 💬
 
 This Python script creates a colorful dot painting inspired by the style of [Damien Hirst](https://en.wikipedia.org/wiki/Damien_Hirst). It uses the `colorgram` library to extract colors from an image and the `turtle` module to draw a 15×12 grid of colored dots. The script includes error handling and documentation for better usability and clarity.
 
